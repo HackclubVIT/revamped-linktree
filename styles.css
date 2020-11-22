@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: #6CF6FF;
+}
+
+.card {
+    background-color:black; 
+    color: #6CF6FF; 
+    border: 1px solid #6CF6FF;
+    border-radius: 20px;
+}
+
+.bt {
+    border: 2px solid #6CF6FF;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 14px 20%;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 40px;
+    left: 90px;
+}
+
+.bt2 {
+    border: 2px solid #6CF6FF;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 14px 150px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    
+}
+
+table {
+    width: 100%;
+}
+
+.eventdes {
+    text-align: center;
+    color: white;
+}
+
+.eventimage {
+    border: 1px solid #6CF6FF; 
+    border-radius: 10px; 
+    height: 350px;
+}
+
+.avatar {
+    border-radius:50%; 
+    width:30px;
+}
